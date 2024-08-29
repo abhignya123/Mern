@@ -1,7 +1,7 @@
 // 1. Declare variables and assign appropriate values
-const myName = "Lekha";
-const myAge = 20;
-const myCity = "Srikakulam";
+const myName = "Abhignya";
+const myAge = 19;
+const myCity = "kakinada";
 const isStudent = true;
 const nullValue = null;
 const undefinedValue = undefined;
